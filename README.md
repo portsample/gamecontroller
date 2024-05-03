@@ -1,0 +1,1 @@
+Code from this application  will be used in a field application to collect wildlife data heads-up. Game controller input will be received and stored on an Android tablet. Sticking point has been relaying game controller battery state to the Android OS for operator review and awareness. 
